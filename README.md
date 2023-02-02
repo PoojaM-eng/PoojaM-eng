@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**PoojaM-eng/PoojaM-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Pooja, dedicated Data Analyst with overall around 3 years of experience in Business Intelligence and Software Development.
 
-Here are some ideas to get you started:
+✨ About Me in 30 Secs ✨
+📝 Always enthusiastic to learn new skills and upgrade my industry knowledge.
+📚 Enjoys travelling!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+💡 Programming languages and tools
+Programming languages: SQL (MS SQL Server, My SQL, Postgres, PL/SQL), Python (the list is too long: Pandas, Numpy, Matplotlib, Seaborn, Tensorflow, PyTorch, Scikit-learn, ...), C#.NET, MS Azure
+Tools: Tableau, MS PowerBI, MS Excel, Google Analytics, AWS Redshift, Airflow
+
+📝 Currently Learning
+Just completed a course of 'Azure SQL Querying' on LinkedIn Learning 
+📚 Projects & Case Studies
+Currently, solving SQL case studies. (uploaded a repo for case 1,and case 2 is under progress)
+Completed few projects in machine learning and python.
+

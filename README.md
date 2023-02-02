@@ -3,6 +3,7 @@
 I'm Pooja, dedicated Data Analyst with overall around 3 years of experience in Business Intelligence and Software Development.
 
 ✨ About Me in 30 Secs ✨
+
 📝 Always enthusiastic to learn new skills and upgrade my industry knowledge.
 📚 Enjoys travelling!
 

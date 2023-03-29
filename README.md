@@ -23,5 +23,5 @@ Just completed a course of 'Azure SQL Querying' on LinkedIn Learning
 
 Currently, solving SQL case studies. (uploaded a repo for case 1, case 2, case 3 is under progress)
 
-Completed few projects in machine learning and python.
+Completed few projects for data analysis using python.
 
